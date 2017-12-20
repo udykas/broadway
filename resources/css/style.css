@@ -32,3 +32,17 @@ h3{
 p{
   font-size: 14px;
 }
+
+h4{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/flatiron.png");
+}
+
+.footer{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
